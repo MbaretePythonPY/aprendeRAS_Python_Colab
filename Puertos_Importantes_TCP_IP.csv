@@ -1,0 +1,14 @@
+20,FTP,File Transfer Protocol
+21,FTP,File Transfer Protocol
+22,SSH,Secure Shell
+23,TELNET,Acceso remoto
+25,SMTP,Servidor de Correo SMTP
+53,DNS,Servidor DNS
+79,FINGER,Servidor de informacion de usuarioas de un PC
+80,HTTP,Servidor Web
+110,POP3,Servidor de correo POP3
+443,HTTPS,Servidor Web Seguro
+631,IPP,Servidor de Impresion
+1433,MS SQL,Base de datos Microsoft
+3306,MYSQL,Base de datos SQL
+5000,UPnP,En window esta activado este puerto por defecto
